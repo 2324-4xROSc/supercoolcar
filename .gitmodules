@@ -1,0 +1,24 @@
+[submodule "led-indicator"]
+	path = led-indicator
+	url = https://github.com/2324-4xROSc/Led-Initicator.git
+[submodule "gps"]
+	path = gps
+	url = https://github.com/2324-4xROSc/gps.git
+[submodule "servo"]
+	path = servo
+	url = https://github.com/2324-4xROSc/servo.git
+[submodule "websocket"]
+	path = websocket
+	url = https://github.com/2324-4xROSc/websocket.git
+[submodule "imu"]
+	path = imu
+	url = https://github.com/2324-4xROSc/imu.git
+[submodule "camera"]
+	path = camera
+	url = https://github.com/2324-4xROSc/camera.git
+[submodule "tof"]
+	path = tof
+	url = https://github.com/2324-4xROSc/TOF.git
+[submodule "voltage-sensor"]
+	path = voltage-sensor
+	url = https://github.com/2324-4xROSc/voltage_sensor.git
