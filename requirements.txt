@@ -1,0 +1,7 @@
+# MQTT
+paho_mqtt==2.1.0
+
+# IMU
+mpu6050-raspberrypi==1.2
+
+# SERVO
