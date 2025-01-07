@@ -19,3 +19,6 @@
 [submodule "voltage-sensor"]
 	path = voltage-sensor
 	url = https://github.com/2324-4xROSc/voltage_sensor.git
+[submodule "led-indicator"]
+	path = led-indicator
+	url = https://github.com/2324-4xROSc/Led-Initicator.git
