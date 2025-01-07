@@ -1,6 +1,3 @@
-[submodule "led-indicator"]
-	path = led-indicator
-	url = https://github.com/2324-4xROSc/Led-Initicator.git
 [submodule "gps"]
 	path = gps
 	url = https://github.com/2324-4xROSc/gps.git
